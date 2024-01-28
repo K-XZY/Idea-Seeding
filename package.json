@@ -1,6 +1,7 @@
 {
   "name": "page",
   "version": "0.1.0",
+  "homepage": "https://k-xzy.github.io/Idea-Seeding",
   "private": true,
   "dependencies": {
     "@geist-ui/core": "^2.3.8",
